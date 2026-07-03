@@ -1,4 +1,4 @@
-# 
+# Instantâneo Glary Utilities modelos para Mac OS | Leve Glary Utilities modelos para PC Windows. Com integracao de API e registro de transacoes — otimizado para máximo desempenho em cada plataforma.
 
 
 
